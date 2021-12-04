@@ -1,0 +1,7 @@
+Note: About selenium Easy website test cases
+
+    Object that we need in order to test
+        1. Web Driver Instance
+
+1. Input Form
+  1.1 Simple Form Demo Page.
